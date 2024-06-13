@@ -7,21 +7,21 @@ Final Project  in Statistical Methods and Data Mining 2024 Spring.
 - **UCI Donated on**: 12/12/2021
 - **Authors**: Valentim Realinho, Mónica V. Martins, Jorge Machado, Luís Baptista
 - **Records**: 4424
-- **Attributes**: 36
+- **Attributes**: 36+1
 - **Missing Values**: None
 - **Description**: 每筆記錄代表一名學生，資料來源涵蓋了從2008/2009學年（波隆那進程應用於歐洲高等教育之後）到2018/2019學年的數據，涉及來自不同知識領域的17個本科學位。
 
 ## 環境設置：
 ```
-- **Python**: 3.10.6
-- **pandas**: 1.5.3
-- **numpy**: 1.24.3
-- **scikit-learn**: 1.4.2
-- **matplotlib**: 3.7.1
-- **seaborn**: 0.12.2
-- **conda**: 23.7.4
-- **jupyter**: 1.0.0
-- **scipy**: 1.13.1
+Python: 3.10.6
+pandas: 1.5.3
+numpy: 1.24.3
+scikit-learn: 1.4.2
+matplotlib: 3.7.1
+seaborn: 0.12.2
+conda: 23.7.4
+jupyter: 1.0.0
+scipy: 1.13.1
 ```
 ## EDA
 
