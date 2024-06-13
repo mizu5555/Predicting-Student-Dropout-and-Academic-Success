@@ -1,5 +1,5 @@
 # Predicting-Student-Dropout-and-Academic-Success
-Final Project  in Statistical Methods and Data Mining 2024 Spring.
+Final Project of Statistical Methods and Data Mining in 2024 Spring.
 
 ## 資料介紹
 ### Dataset Description
